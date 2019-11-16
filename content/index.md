@@ -1,5 +1,15 @@
 ---
 title: "Min fina titel"
+
+byline:
+    region: main
+    template: anax/v2/image/default
+    sort: 2
+    data:
+        meta:
+            type:
+            route:
+
 ---
 Min me-sida i kursen design
 =========================
