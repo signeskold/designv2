@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+Signe Sköld - 2019
