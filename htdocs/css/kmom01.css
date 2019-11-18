@@ -6,7 +6,7 @@
  */
 
 /* Poor-mans normalize*/
-* {
+/** {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -53,16 +53,11 @@
 
 .region-header-col-2 {
     float:left;
-    width: 30%;
+    width: 60%;
 }
 
 .site-logo {
     display: none;
-}
-
-.my-navbar {
-    padding-top: 10px;
-    list-style-type: none;
 }
 
 .my-navbar li {
@@ -70,16 +65,10 @@
     padding: 2px 10px;
 }
 
-/* Main */
-
-.inner-wrap-main {
-    padding: 30px 0;
-}
-
 /* Footer */
 .outer-wrap-footer {
-    background-color: #007;
-    color: white;
+    background-color: #ebfcfc;
+    color: black;
 }
 
 .inner-wrap-footer {
@@ -90,4 +79,18 @@
     padding-top: 30px;
     width: 100%;
     text-align: center;
+}
+
+html {
+    background-color: #fae0ff;
+}
+
+body {
+    background-color: #dbffe5;
+}
+
+.wrap-all {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #fffff5;
 }
